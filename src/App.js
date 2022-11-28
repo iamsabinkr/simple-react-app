@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-           Welcome in <b>simple-react-app</b> page.
+           Hello there! Welcome in <b>simple-react-app</b> page.
           // Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
